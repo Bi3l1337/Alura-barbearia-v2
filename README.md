@@ -1,1 +1,1 @@
-![Contato](file:///C:/Users/snown/Downloads/Alura%20Trabalho/contato.html)
+[Alura Barbearia](https://illustrious-sopapillas-7a1bf4.netlify.app/)
